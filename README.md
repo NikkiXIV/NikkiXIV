@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Guilherme!</h1>
 
 <p align="center">
-  Estudante de Ciência de Dados | Entusiasta de Física
+  Cientista de Dados | Entusiasta da Física
 </p>
 
 ---
