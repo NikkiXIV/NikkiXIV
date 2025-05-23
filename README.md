@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Guilherme!</h1>
 
 <p align="center">
-  Cientista de Dados | Entusiasta da Física
+  Cientista de Dados | Dev Backend
 </p>
 
 ---
